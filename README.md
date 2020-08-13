@@ -1,9 +1,9 @@
 # lprnet-pytorch
 ## Introduction
-Unofficial PyTorch Implementation of [<LPRNet: License Plate Recognition via Deep Neural Networks>](https://arxiv.org/pdf/1806.10447.pdf)
-Training with Synthesis Korean License Plate
+- Unofficial PyTorch Implementation of [<LPRNet: License Plate Recognition via Deep Neural Networks>](https://arxiv.org/pdf/1806.10447.pdf)
+- Training with Synthesis Korean License Plate
 
-Comming Soon:
+## Comming Soon
 - Add Experiment Result
 - Open Demo Dataset
 - Open Pre-trained LPRNet-kor
